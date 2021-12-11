@@ -1,43 +1,34 @@
-## Hey 👋, I'm **KEERTHI VAASEN**
+## Hi 👋, I'm **V.KEERTHI VAASEN**
 </h1>
-I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁ or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. it empowers me to create magnificent products.
+I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. it empowers me to create magnificent products.
 <br>
 <!-- Custom Image.. Beware the width -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59435839/129004906-faee9096-72a0-4776-9ad0-b9061273b23f.png" width="300px"/>
+<img align="right" alt="JPG" src="https://images.techhive.com/images/article/2016/11/computerworld_tech_forecast_2017_hottest-tech-skills-for-2017-100692085-large.3x2.jpg" width="400px"/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Cloud Service's (GCP , AWS)**
-- 🤝 &nbsp; I’m looking to collaborate on [Future Projects]()
-- 🌱 &nbsp; I’m currently learning Flutter; 
-- 🤔 &nbsp; I’m looking for help with `DevOps`
-- 👨🏻‍💻 &nbsp; Mastering: `.java`, `.js`
+- 🔭 &nbsp; I’m currently working on **Cloud Service's (GCP)**
+- 🤝 &nbsp; I’m looking to collaborate on Future Projects
+- 🌱 &nbsp; I’m currently learning Kotlin
+- 🤔 &nbsp; I’m looking for help with `Kotlin`
+- 👨🏻‍💻 &nbsp; Looking for : `.java`, `.js`
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on Twitter [@dhvakr](https://twitter.com/KEERTHIVAASEN) 
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1-WPx44djqZN7O1zbe1mYmgTMUOetYcjV/view?usp=sharing)
+- 📫 &nbsp; Feel free to ping me on Twitter [@keerthivaasen](https://twitter.com/KEERTHIVAASEN) 
+- 📝 &nbsp; Checkout my 
 - 💆‍♂️ &nbsp; When I am free, I play games and listen to podcast's
 --- 
-<details> <!-- Spotify Now Playing-->
-<summary><b><i>Vibing to 🎧</i></b></summary>
-<a href="https://open.spotify.com/user/31yhwocxltfd43pqqsldojnsplgq">
-<img src="https://dhvakrsp.vercel.app/api/spotify" alt="Now Playing On Spotify">
-</a>
-</details>
 
 <!--TECH STACKS AND TOOLS-->
 ### 🖥️ My DevSetup
   [![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-in/windows/windows-11)
-  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/br3ndonland/dotfiles)       
+  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://www.kali.org/)
+  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+  [![Editor](https://img.shields.io/badge/Editor-Atom-blue?style=flat-square&logo=atom-studio-code&logoColor=white)](https://atom.io/)
 ### 🔨 Languages and Tools I use:
   [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)](https://openjdk.java.net/)
   [![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Flutter)](https://www.javascript.com/)
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.android.com/intl/en_in/)
-  [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart)](https://dart.dev/)
   [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://golang.org/)
-
-
   [![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
   [![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)](https://flutter.dev/)
   [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -63,24 +54,6 @@ I am a versatilist and easily adapt to different hats (Backend Developer 🌐, A
   [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
   [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/)
   [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
-### 📊 Github Stats
-<a href="https://github.com/dhvakr"><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhvakr&title_color=FA8C04&icon_color=CC5160&text_color=949CA5&bg_color=00000000&layout=compact&count_private=true&show_icons=true&include_all_commits=true" height='170px'/></a> &ensp; &ensp;
-<a href="https://github.com/dhvakr"><img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvakr&title_color=FA8C04&icon_color=CC5160&text_color=949CA5&bg_color=00000000&layout=compact&show_icons=false" height='170px'/></a>
-
 ---
 <!-- ## Support me
-If you like what I do, maybe consider buying me a ~~coffee/tea~~ snack🥺👉👈 -->
-
-<!-- <p align="center">
-  <a href="https://www.patreon.com/" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p> -->
-
 <!-- 🙌Feel free to use the badges or images.. -->
