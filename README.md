@@ -1,10 +1,3 @@
-![Header](https://user-images.githubusercontent.com/59435839/128640445-1d468b84-88f7-4a16-8a2c-4581adfa8b84.gif)
-![](https://komarev.com/ghpvc/?username=dhvakr)
-[![Profile Last Updated](https://img.shields.io/github/last-commit/dhvakr/dhvakr?label=Profile%20last%20updated&style=flat-square)](https://github.com/dhvakr/dhvakr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhvakr?style=social)](https://twitter.com/dhvakr)
-<a href="https://t.me/dhvakr/"><img src="assets/Telegram.svg" alt="Telegram" align="right" height='24px'/></a>
-<a href="https://www.linkedin.com/in/dhvakr/"><img src="assets/linkedin.svg" alt="linkedin" align="right" height='24px'/></a>
-
 ## Hey 👋, I'm **KEERTHI VAASEN**
 </h1>
 I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁ or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. it empowers me to create magnificent products.
