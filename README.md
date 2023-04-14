@@ -1,4 +1,4 @@
-## Open-Source Programs
+## Learning Source 
 
 * [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 * [Linux Foundation](https://mentorship.lfx.linuxfoundation.org/#projects_accepting)
